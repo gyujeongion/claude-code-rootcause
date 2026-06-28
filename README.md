@@ -17,6 +17,8 @@ Both share one rule: **never patch a symptom before you've found its structural 
 
 ---
 
+![rootcause demo](demo/rootcause.gif)
+
 ## Why this exists
 
 The default loop for correcting an AI agent looks like this:
